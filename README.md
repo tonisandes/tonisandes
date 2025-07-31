@@ -62,7 +62,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um **Desenvolvedor de Software** e **C
 ## 📫 Entre em Contato
 
 Gostou do que viu? Vamos conversar sobre tecnologia, dados ou colaborações!  
-- 📧 **E-mail**: [seu.email@example.com](mailto:tonibmartinsdev@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/antmartins)  
+- 📧 **E-mail**: [tonibmartinsdev@gmail.com](mailto:tonibmartinsdev@gmail.com)  
+- 💼 **LinkedIn**: [https://linkedin.com/in/antmartins](https://linkedin.com/in/antmartins)  
 
 ---
