@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um **Desenvolvedor de Software** e **C
 
 - 📍 **Localização**: Recife, Pernambuco, Brasil
 - 💼 **Experiência**:
-  - Desenvolvedor de Software na **CodeSwarm**, criando interfaces intuitivas com HTML5, CSS3 e JavaScript, otimizando performance e usabilidade.
+  - Desenvolvedor de Software na **CodeSwarm**, criando interfaces intuitivas com HTML5, CSS3, JavaScript e Java, otimizando performance e usabilidade.
   - Estagiário em Ciência de Dados no **Grupo Liderança Terceirização e Serviços**, desenvolvendo relatórios interativos com Power BI, modelagem preditiva com Python e Pandas,consultas SQL e Visão Computacional (Desenvolvimentode analiticos para câmeras de segurança .
 - 🎓 **Formação**: [Estudante de Sistema de Informação na Instituição Cesar School]
 - 💡 **Valores**: Apaixonado por aprendizado contínuo, colaboração e impacto positivo através da tecnologia.
